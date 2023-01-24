@@ -18,8 +18,8 @@ RUN \
     libxslt-dev \
     make \
     openssl-dev \
-    py3-wheel \
     poppler-utils \
+    py3-wheel \
     python3-dev \
     zlib-dev && \
   apk add --update --no-cache \
