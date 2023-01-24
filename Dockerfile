@@ -19,6 +19,7 @@ RUN \
     make \
     openssl-dev \
     py3-wheel \
+    poppler-utils \
     python3-dev \
     zlib-dev && \
   apk add --update --no-cache \
